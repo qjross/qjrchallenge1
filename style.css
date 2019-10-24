@@ -1,0 +1,25 @@
+summary:hover{
+  cursor: pointer;
+}
+
+nav{
+    background-color:black;
+    }
+ul{
+    color:orange;
+}
+
+.alert-spoopy{
+  background-color:#F74902;
+  color:#fff;
+}
+
+.alert-creppy{
+  background-color:black;
+  color:#fff;
+}
+
+.bg-spoopy{
+    background-color:#009639;
+    color:#552583;
+}
